@@ -1,5 +1,8 @@
 <img src="Rajesh-banner.png" alt="GitHub Banner" width="100%" align="left" />
-<br>
+
+
+
+
 
 # Hello World! I'm Rajeshbabu, an aspiring Front-End Developer from Chennai, India 👋🏼
 
