@@ -15,6 +15,13 @@
 🎬 Working on personal projects, and looking forward to expanding my portfolio and skill set.<br>
 📚 Always eager to learn and improve, and I'm excited to collaborate with fellow developers!
 
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshbabu2004//)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajeshbabu_sekar//)
+
+
 ## 💻 Programming Languages:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
