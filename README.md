@@ -1,6 +1,7 @@
-<img src="Rajesh-banner.png" alt="GitHub Banner" width="100%" align="left" />
+<img src="Rajesh-banner.png" alt="GitHub Banner" width="100%" style="float: left; margin-right: 20px; margin-bottom: 20px;" />
 
-<br><br>
+
+
 
 
 
