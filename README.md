@@ -1,18 +1,16 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-# Hello World! I'm Rajeshbabu S 👋
-
-<p align="left">
-  <strong>AI Engineer | Full-Stack Developer | Ex-Intern @ God Particles</strong>
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rajeshbabu2004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://linktr.ee/Rajeshbabusekar"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
-  <a href="https://rajeshbabu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://hashnode.com/@Rajesh21"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
-  <a href="https://drive.google.com/file/d/1js7l9LZslUv1JTSwqbYTCZiTrcUuvxpg/view"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
-</p>
+<div align="center">
+  <h1>Hello World! I'm Rajeshbabu S 👋</h1>
+  <p><strong>AI Engineer | Full-Stack Developer | Ex-Intern @ God Particles</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/rajeshbabu2004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://linktr.ee/Rajeshbabusekar"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+    <a href="https://rajeshbabu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://hashnode.com/@Rajesh21"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+    <a href="https://drive.google.com/file/d/1js7l9LZslUv1JTSwqbYTCZiTrcUuvxpg/view"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+  </p>
+</div>
 
 ---
 
