@@ -1,33 +1,85 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" align="left" />
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 
+# Hello World! I'm Rajeshbabu S 👋
 
+<p align="left">
+  <strong>AI Engineer | Full-Stack Developer | Ex-Intern @ God Particles</strong>
+</p>
 
-<div style="margin-top: 20px;"></div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rajeshbabu2004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linktr.ee/Rajeshbabusekar"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  <a href="https://rajeshbabu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://hashnode.com/@Rajesh21"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="https://drive.google.com/file/d/1js7l9LZslUv1JTSwqbYTCZiTrcUuvxpg/view"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+</p>
 
+---
 
+### 💫 About Me
 
-# Hello World! I'm Rajeshbabu, an aspiring Front-End Developer from Chennai, India 👋🏼
+I am an MSc Information Technology student at Anna University, Chennai (College of Engineering, Guindy), passionate about development and AI. 
 
-🛜 Currently building clean and responsive websites with React, Tailwind CSS, and HTML/CSS.<br>
-👨🏼‍🎓 Pursuing a Bachelor's degree in Information Technology at the College of Engineering, Guindy.<br>
-👨🏼‍💻 Passionate about web development and problem-solving through Data Structures and Algorithms in Java.<br>
-🎬 Working on personal projects, and looking forward to expanding my portfolio and skill set.<br>
-📚 Always eager to learn and improve, and I'm excited to collaborate with fellow developers!
+* 🧠 **AI Engineering**: Building real-world Retrieval-Augmented Generation (RAG) applications using FastAPI and the Google Gemini API.
+* 💻 **Full-Stack Development**: Expanding my foundation in React into end-to-end full-stack solutions with Supabase and PostgreSQL.
+* ☕ **Data Structures & Algorithms**: Mastering Java for DSA to build robust, highly optimized backend architectures.
+* 💼 **Professional Experience**: Gained hands-on industry experience as a Web Developer Intern at God Particles, working on real-world development projects.
+* 👥 **Leadership & Tech Communities**:
+  * Technical Operations Organizer – CEG Tech Forum (Dec 2024 – Feb 2025)
+  * Domain Representative & Event Organizer – Math Computing Society (Oct 2024 – Present)
+  * Technical Design Organizer – SAAS (Student Association and Arts Society) (Sep 2024 – Present)
+  * Technical Design Organizer – Mathrix Official (Dec 2024 – Present)
 
-## 💻 Programming Languages:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 💻 Technologies & Tools
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajeshbabu21/Rajeshbabu21/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajeshbabu21/Rajeshbabu21/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rajeshbabu21/Rajeshbabu21/output/github-snake.svg" />
-</picture>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>Languages</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+    <td valign="top" width="33%">
+      <h4>Frameworks & Databases</h4>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> <br/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+    <td valign="top" width="33%">
+      <h4>AI & Tools</h4>
+      <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini AI" /> <br/>
+      <img src="https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white" alt="Git" /> <br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <br/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+    </td>
+  </tr>
+</table>
 
-## GitHub Stats:
-![Rajeshbabu21's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajeshbabu21&show_icons=true&hide_title=true&count_private=true&theme=radical)
+---
 
-## Top Languages:
-![Rajeshbabu21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshbabu21&layout=compact&theme=radical)
+### 📜 Certifications
+* **Learn To Code HTML and CSS for Responsive Real-World Website**
+
+---
+
+### 📊 GitHub Contributions & Stats
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajeshbabu21/Rajeshbabu21/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajeshbabu21/Rajeshbabu21/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Rajeshbabu21/Rajeshbabu21/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajeshbabu21&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Rajeshbabu21's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshbabu21&layout=compact&theme=radical" alt="Rajeshbabu21's Top Languages" />
+</p>
